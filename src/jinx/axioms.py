@@ -1,0 +1,4 @@
+import math
+
+CIRCLE_TOTAL_RADIANS = 2 * math.pi
+CIRCLE_TOTAL_DEGREES = 360
